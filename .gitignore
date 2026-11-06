@@ -1,0 +1,6 @@
+# nunca versionar dados de alunos nem cópias de segurança
+*.json
+!package.json
+*.csv
+node_modules/
+.claude/

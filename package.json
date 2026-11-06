@@ -1,0 +1,6 @@
+{
+  "name": "gestao-natacao",
+  "private": true,
+  "description": "Mensalidades da natação (PWA offline, sem servidor)",
+  "scripts": { "test": "node --test" }
+}
