@@ -5,6 +5,9 @@ Funciona no iPhone, sem internet, sem conta, sem servidor e sem mensalidade.
 **Os dados ficam só no telefone dela.** Nada é enviado para lugar nenhum: as mensagens do
 WhatsApp só saem quando ela mesma aperta "enviar".
 
+**Link do app:** https://ctpedrobispo.github.io/gestao-natacao/
+(GitHub Pages direto da branch `main`, sem GitHub Actions; este repositório tem só código.)
+
 ## O que o app faz
 
 - **Este mês:** quem pagou, quem vence nos próximos dias, quem está atrasado (inclusive de meses
